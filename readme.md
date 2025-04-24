@@ -6,7 +6,7 @@ Thank you for taking the time to complete this exercise! The goal is to evaluate
 
 ## 🚀 Instructions
 
-1. **Clone this repository**
+1. **Fork this repository**
 2. **Create a new branch** with your name or initials  
    _Example_: `feature/john-doe`
 3. Make your changes directly in that branch
