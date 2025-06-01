@@ -26,7 +26,7 @@ Using **Node.js** and **Express**, build a simple API endpoint that does the fol
   `https://jsonplaceholder.typicode.com/posts?userId=<id>`
 
 - Generate and expose a summary report via a GET route at `/report`  
-   Claculate for each user how many posts includes the workd "autem" in it's body
+   Calculate for each user how many posts includes the workd "autem" in it's body
    The response should follow this structure:
 
     ```json
