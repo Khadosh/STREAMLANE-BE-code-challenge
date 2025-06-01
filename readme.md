@@ -6,11 +6,10 @@ Thank you for taking the time to complete this exercise! The goal is to evaluate
 
 ## 🚀 Instructions
 
-1. **Fork this repository**
+1. **Clone this repository**
 2. **Create a new branch** with your name or initials  
    _Example_: `feature/john-doe`
 3. Make your changes directly in that branch
-4. When you're done, **open a Pull Request** against the `main` branch
 
 ---
 
@@ -27,7 +26,8 @@ Using **Node.js** and **Express**, build a simple API endpoint that does the fol
   `https://jsonplaceholder.typicode.com/posts?userId=<id>`
 
 - Generate and expose a summary report via a GET route at `/report`  
-  The response should follow this structure:
+   Claculate for each user how many posts includes the workd "autem" in it's body
+   The response should follow this structure:
 
     ```json
     [
